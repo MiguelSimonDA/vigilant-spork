@@ -1,4 +1,4 @@
 # vigilant-spork
 
 - eggs
-- milk
+- oat milk
